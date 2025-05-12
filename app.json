@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ravb",
+    "slug": "ravb",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "38f7f630-77db-47f9-b9c9-2ea86da951a7"
+      }
+    }
+  }
+}
